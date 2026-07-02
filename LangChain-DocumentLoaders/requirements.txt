@@ -1,0 +1,27 @@
+#langchain
+langchain
+langchain_core
+
+#OpenAI Integeration
+langchain-openai
+openai
+
+# Anthropic Ingereation
+langchain-anthropic
+
+# Google Gemini
+langchain-google-genai
+google-generativeai
+
+# Hugging face Integeration
+langchain-huggingface
+transformers
+huggingface-hub
+
+#Environment Varuiable Mangament
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
